@@ -5,7 +5,7 @@ This is a small Node.js/Express application that demonstrates a simple chat mess
 ## Features
 
 - List all chat messages (web UI)
-- Create a new chat message (from, to, message)
+- Create a new chat message with current date and time(from, to, message)
 - Edit an existing message (text only)
 - Delete a message
 - Server-side rendered views using EJS
